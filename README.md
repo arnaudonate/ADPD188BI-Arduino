@@ -42,7 +42,7 @@ The settings programmed in the code are the following:
 0x45 0xADA5 Signal path configuration
 0x58 0x0544 Math for chop mode inverted, noninverted, noninverted, inverted LED
 0x54 0x0AA0 PD reverse bias, approximately 250 mV
-
+ 
 ADPD188BI Integrated Optical Module for smoke detection from Analog Devices
 You can find the data Sheet in the repository or here--> https://www.analog.com/media/en/technical-documentation/data-sheets/adpd188bi.pdf
 
